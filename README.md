@@ -23,3 +23,51 @@ potato     1kg        Rs 22.50
 tomato     1kg        Rs 13.50  
 mushroom   200g       Rs 49     
 carrot     250g       Rs 6      
+
+ *** *** *** *** 
+
+Date: 2023-04-07 Time: 12:36:54
+
+Zepto Prices 
+
+Item       | Size       | Price     
+banana     | 1kg        | ₹64       
+potato     | 1kg        | ₹20       
+grapes     | 500g       | ₹46       
+
+Big Basket Prices 
+
+Item       | Size       | Price     
+grapes     | 500g       | Rs 42     
+banana     | 1kg        | Rs 49     
+apple      | 500g       | Rs 173    
+onion      | 1kg        | Rs 21.50  
+potato     | 1kg        | Rs 22.50  
+tomato     | 1kg        | Rs 13.50  
+mushroom   | 200g       | Rs 49     
+carrot     | 250g       | Rs 6      
+
+ *** *** *** *** 
+
+Date: 2023-04-07 Time: 12:37:45
+
+Zepto Prices 
+
+Item       | Size       | Price     
+| --- | --- | --- |
+banana     | 1kg        | ₹64       
+potato     | 1kg        | ₹20       
+grapes     | 500g       | ₹46       
+
+Big Basket Prices 
+
+Item       | Size       | Price     
+| --- | --- | --- |
+grapes     | 500g       | Rs 42     
+banana     | 1kg        | Rs 49     
+apple      | 500g       | Rs 173    
+onion      | 1kg        | Rs 21.50  
+potato     | 1kg        | Rs 22.50  
+tomato     | 1kg        | Rs 13.50  
+mushroom   | 200g       | Rs 49     
+carrot     | 250g       | Rs 6      
