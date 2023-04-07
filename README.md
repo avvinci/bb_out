@@ -1,11 +1,15 @@
+
 # Bigbasket and zepto prices
 
 
 
+
  *** *** *** *** 
+
 Date: 2023-04-07 Time: 15:46:15
 
 Big Basket Prices 
+
 Item       | Size       | Price     
 | --- | --- | --- |
 carrot     | 250g       | Rs 6      
@@ -18,6 +22,7 @@ banana     | 1kg        | Rs 49
 grapes     | 500g       | Rs 42     
 
 Zepto Prices 
+
 Item       | Size       | Price     
 | --- | --- | --- |
 carrot     | 500g       | ₹23       
@@ -33,6 +38,7 @@ grapes     | 500g       | ₹43
 Date: 2023-04-07 Time: 15:45:15
 
 Big Basket Prices 
+
 Item       | Size       | Price     
 | --- | --- | --- |
 carrot     | 250g       | Rs 6      
@@ -45,6 +51,7 @@ banana     | 1kg        | Rs 49
 grapes     | 500g       | Rs 42     
 
 Zepto Prices 
+
 Item       | Size       | Price     
 | --- | --- | --- |
 carrot     | 500g       | ₹23       
