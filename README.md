@@ -1,4 +1,19 @@
 
+Zepto Prices 
+
+Item       | Size       | Price     
+| --- | --- | --- |
+carrot     | 500g       | ₹23       
+mushroom   | 200g       | ₹53       
+tomato     | 1kg        | ₹17       
+potato     | 1kg        | ₹23       
+onion      | 1kg        | ₹23       
+apple      | 500g       | ₹148      
+banana     | 1kg        | ₹62       
+grapes     | 500g       | ₹46       
+grapes     | 500g       | ₹46       
+grapes     | 500g       | ₹46       
+
  *** *** *** *** 
 Date: 2023-04-15 Time: 13:14:47
 
