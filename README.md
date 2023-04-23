@@ -1,5 +1,34 @@
 
  *** *** *** *** 
+Date: 2023-04-23 Time: 12:00:28
+
+Big Basket Prices 
+
+Item       | Size       | Current Price | Last 7d Minimum
+| --- | --- | --- |
+carrot     | 250g       | Rs 9       | 7.5       
+mushroom   | 200g       | Rs 49      | 49.0      
+tomato     | 1kg        | Rs 14      | 14.0      
+potato     | 1kg        | Rs 23      | 20.5      
+onion      | 1kg        | Rs 25      | 21.5      
+apple      | 500g       | Rs 176     | 141.0     
+banana     | 1kg        | Rs 39      | 39.0      
+grapes     | 500g       | Rs 39      | 39.0      
+
+Zepto Prices 
+
+Item       | Size       | Current Price | Last 7d Minimum
+| --- | --- | --- |
+carrot     | 500g       | ₹23        | 22.0      
+mushroom   | 200g       | ₹56        | 54.0      
+tomato     | 1kg        | ₹34        | 17.0      
+potato     | 1kg        | ₹26        | 23.0      
+onion      | 1kg        | ₹23        | 22.0      
+apple      | 500g       | ₹188       | 136.0     
+banana     | 1kg        | ₹62        | 44.0      
+grapes     | 500g       | ₹52        | 46.0      
+
+ *** *** *** *** 
 Date: 2023-04-23 Time: 00:00:42
 
 Big Basket Prices 
